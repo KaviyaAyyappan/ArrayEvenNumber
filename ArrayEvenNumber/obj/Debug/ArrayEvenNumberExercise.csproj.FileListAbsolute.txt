@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\obj\Debug\ArrayEvenNumberExercise.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\bin\Debug\ArrayEvenNumber.exe.config
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\bin\Debug\ArrayEvenNumber.exe
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\bin\Debug\ArrayEvenNumber.pdb
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\obj\Debug\ArrayEvenNumber.exe
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\obj\Debug\ArrayEvenNumber.pdb
+C:\Users\kaviya\source\repos\ArrayEvenNumber\ArrayEvenNumber\obj\Debug\ArrayEvenNumberExercise.csprojAssemblyReference.cache
